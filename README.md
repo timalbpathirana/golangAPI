@@ -1,6 +1,6 @@
 # Golang CRUD API with AWS RDS (mysql) 
 
-![Qwirkle_banner](https://user-images.githubusercontent.com/68840709/117711903-030b5b80-b217-11eb-8d22-32c48bb44402.png)
+![Golang CRUD API with AWS RDS](https://user-images.githubusercontent.com/68840709/195969058-d08a2d9b-b022-4903-9d84-c4ba10125e05.png)
 
 ## Table of contents
 * [Project info](#general-info)
@@ -16,11 +16,9 @@ With this project you can,
 
 Below are some screenshot of the game. 
 
-<img width="406" alt="Screen Shot 2021-05-16 at 6 46 47 pm" src="https://user-images.githubusercontent.com/68840709/118391364-374ba580-b677-11eb-9109-75c14eb3fcc6.png">
+![AWS_SQL](https://user-images.githubusercontent.com/68840709/195969079-02ddd79b-11a8-481d-ab91-2fbdb24137b5.png)
 
-<img width="410" alt="Screen Shot 2021-05-16 at 6 47 03 pm" src="https://user-images.githubusercontent.com/68840709/118391372-429ed100-b677-11eb-8265-aad849122914.png">
-
-<img width="408" alt="Screen Shot 2021-05-16 at 6 47 28 pm" src="https://user-images.githubusercontent.com/68840709/118391381-4a5e7580-b677-11eb-9ce3-9bf854a13eb9.png">
+![postman](https://user-images.githubusercontent.com/68840709/195969091-c7a71df0-c784-4308-8346-5fb53d8a3dc5.png)
 
 
 ## How to AWS
