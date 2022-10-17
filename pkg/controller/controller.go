@@ -39,8 +39,8 @@ func GetProductById(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	productId := vars["id"]
 	if ID, err := strconv.ParseInt(productId, 0, 0); err == nil {
-		bookDetails, _ := models.GetProductById(ID)
-		res, _ := json.Marshal(bookDetails)
+		productDetail, _ := models.GetProductById(ID)
+		res, _ := json.Marshal(productDetail)
 		setHeader(w)
 		w.Write(res)
 	}
